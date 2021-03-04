@@ -8,7 +8,7 @@
 <hr>
 - ![](./images/correct.gif) I'm a backend student
 - ![](./images/coding.gif) I love systems and i'm very curious to know how they work
-- ![](https://cdn.discordapp.com/emojis/670037477809192970.gif?v=1) In a serious relacionship with node.js
+- <img src="https://cdn.discordapp.com/emojis/670037477809192970.gif?v=1" width="30px"> In a serious relacionship with node.js
 
 <br>
 
