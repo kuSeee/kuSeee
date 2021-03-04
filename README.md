@@ -6,7 +6,7 @@
 
 # About me
 <hr>
-[![](./images/correct.gif)] I'm a backend student
+![](./images/correct.gif) I'm a backend student
 ![](./images/coding.gif) I love systems and i'm very curious to know how they work
 ![](https://cdn.discordapp.com/emojis/670037477809192970.gif?v=1) In a serious relacionship with node.js
 
@@ -14,17 +14,3 @@
 
 # Technologies & Tools
 <hr>
-<!--
-**kuSeee/kuSeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
