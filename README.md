@@ -10,7 +10,7 @@
 <hr>
 <li><img src="/images/correct.gif" width="20px"> I'm a backend student</li>
 <li><img src="/images/coding.gif" width="20px"> I love systems and i'm very curious to know how they work</li>
-<li><img src="/images/hearth.gif" width="20px"> In a serious relacionship with node.js</li>
+<li><img src="/images/hearth.gif" width="20px"> In a serious relacionship with development</li>
 
 <br>
 
