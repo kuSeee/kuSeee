@@ -1,3 +1,5 @@
+<img src="/images/header.png">
+
 # Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is "kuSe"
 <hr>
 <p>Hello, my nickname is "kuSe", i'm a backend student, a curious about technology, i love develop softwares, i hope you enjoy my profile</p>
