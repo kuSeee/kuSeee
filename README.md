@@ -6,9 +6,9 @@
 
 # About me
 <hr>
-<li>![](./images/correct.gif) I'm a backend student</li>
-<li>![](./images/coding.gif) I love systems and i'm very curious to know how they work</li>
-<li><img src="/images/hearth" width="30px"> In a serious relacionship with node.js</li>
+<li><img src="/images/correct.gif" width="30px"> I'm a backend student</li>
+<li><img src="/images/coding.gif" width="30px"> I love systems and i'm very curious to know how they work</li>
+<li><img src="/images/hearth.gif" width="30px"> In a serious relacionship with node.js</li>
 
 <br>
 
