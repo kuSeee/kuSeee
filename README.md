@@ -6,7 +6,7 @@
 
 # About me
 <hr>
-* ![](./images/correct.gif) I'm a backend student
+* [![](./images/correct.gif)] I'm a backend student
 * ![](./images/coding.gif) I love systems and i'm very curious to know how they work
 * ![](./images/hearth.gif) In a serious relacionship with node.js
 
