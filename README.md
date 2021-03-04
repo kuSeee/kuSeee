@@ -1,5 +1,19 @@
-### Hi there 👋
+# Hello, my name is "kuSe"
+<hr>
+<p>Hello, my nickname is "kuSe", i'm a backend student, a curious about technology, i love develop softwares, i hope you enjoy my profile</p>
 
+<br>
+
+# About me
+<hr>
+*![correct](/images/correct.gif) I'm a backend student
+*![coding](/images/coding.gif) I love systems and i'm very curious to know how they work
+*![heart](/images/hearth.gif) In a serious relacionship with node.js
+
+<br>
+
+# Technologies & Tools
+<hr>
 <!--
 **kuSeee/kuSeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
